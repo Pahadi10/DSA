@@ -2,6 +2,8 @@
 
 Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains solutions to a variety of DSA problems that I have solved, organized by topic. It serves as a comprehensive record of my progress and learning in the field of algorithms and data structures.
 
+- I have used C++ language.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -21,17 +23,17 @@ Many of the problems solved here are from popular coding platforms like LeetCode
 
 ## Contents
 
-The repository is organized by topic. Each folder contains solutions to problems related to that specific topic. Below is a list of topics covered:
+The repository is organized by topics. Each folder contains solutions to problems related to that specific topic. Below is a list of topics covered:
 
 - Arrays
 - Basic Maths
 - Character Arrays & Strings
 - Functions
 - Patterns
-- Pointers
+- Recursion
 - Searching
 - Sorting
-More to come..
+- More to come..
 
 ## How to Use This Repository
 
